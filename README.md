@@ -46,7 +46,7 @@ Feature	Extensions	Plugins
  Installed From	Browser's official extension store	Installed separately from third-party sources
  Current Use	Actively used and supported in modern browsers	Mostly deprecated and no longer widely supported
 
-# Conclusion: Extensions are safe browser add-ons when vetted, whereas plugins are older technologies now mostly phased out due to security concerns.
+## Conclusion: Extensions are safe browser add-ons when vetted, whereas plugins are older technologies now mostly phased out due to security concerns.
 
 ## How to report malicious browser extensions?
 If you find a suspicious or malicious extension:
