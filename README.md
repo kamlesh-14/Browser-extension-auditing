@@ -40,11 +40,7 @@ Practiced safe browser hygiene by regularly auditing extensions
 Understood how attackers can use browser extensions as spyware
 
 ## What’s the difference between extensions and plugins?
-Feature	Extensions	Plugins
- Purpose	Add or enhance browser functionality (e.g., ad-blockers)	Support specific content types (e.g., Flash, Java Applets)
- Runs In	Browser environment only	External to browser, but integrated with it
- Installed From	Browser's official extension store	Installed separately from third-party sources
- Current Use	Actively used and supported in modern browsers	Mostly deprecated and no longer widely supported
+Extensions are lightweight add-ons installed directly from a browser’s official store (like Chrome Web Store) to enhance or modify browser functionality—such as ad-blockers, password managers, or productivity tools. They run within the browser environment and are sandboxed for security. Plugins, on the other hand, were external software components used in older browsers to render special types of web content like Flash or Java Applets. Plugins required separate installation and often had deeper system access, making them more vulnerable to security risks. Most modern browsers have now phased out plugin support in favor of safer and more controlled extensions.
 
 ## Conclusion: Extensions are safe browser add-ons when vetted, whereas plugins are older technologies now mostly phased out due to security concerns.
 
